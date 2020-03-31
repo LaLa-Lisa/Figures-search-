@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\natusa_aki\documents\visual studio 2015\projects\figures_search\figures_search\source.cpp(69): warning C4101: 'Len': unreferenced local variable
+c:\users\natusa_aki\documents\visual studio 2015\projects\figures_search\figures_search\source.cpp(69): warning C4101: 'a': unreferenced local variable
+c:\users\natusa_aki\documents\visual studio 2015\projects\figures_search\figures_search\source.cpp(69): warning C4101: 'sum': unreferenced local variable
+c:\users\natusa_aki\documents\visual studio 2015\projects\figures_search\figures_search\source.cpp(69): warning C4101: 'b': unreferenced local variable
+  Figures_search.vcxproj -> C:\Users\Natusa_Aki\documents\visual studio 2015\Projects\Figures_search\Debug\Figures_search.exe
+  Figures_search.vcxproj -> C:\Users\Natusa_Aki\documents\visual studio 2015\Projects\Figures_search\Debug\Figures_search.pdb (Partial PDB)
